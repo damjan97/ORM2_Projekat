@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  receiver.c
+receiver.c(79): warning C4101: 'sentBytes': unreferenced local variable
+receiver.c(89): warning C4101: 'length': unreferenced local variable
+  Project.vcxproj -> C:\Users\Damjan\Documents\orm2\projekat\kljfdas\Receiver\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  sender.c
+sender.c(85): warning C4101: 'sentBytes': unreferenced local variable
+sender.c(392): warning C4018: '<': signed/unsigned mismatch
+sender.c(399): warning C4018: '<': signed/unsigned mismatch
+sender.c(420): warning C4018: '<': signed/unsigned mismatch
+sender.c(474): warning C4018: '<': signed/unsigned mismatch
+sender.c(511): warning C4018: '<': signed/unsigned mismatch
+sender.c(516): warning C4018: '<': signed/unsigned mismatch
+c:\users\damjan\documents\orm2\projekat\sender\pcap-project\project\sender.c(468): warning C4716: 'ethernet_handler': must return a value
+c:\users\damjan\documents\orm2\projekat\sender\pcap-project\project\sender.c(555): warning C4716: 'wifi_handler': must return a value
+  Project.vcxproj -> C:\Users\Damjan\Documents\orm2\projekat\Sender\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)
